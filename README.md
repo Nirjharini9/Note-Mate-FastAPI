@@ -147,3 +147,7 @@ node .\node_modules\react-scripts\bin\react-scripts.js start
 ## Author
 
 Developed as a full-stack learning project using FastAPI, React, PostgreSQL, and Gemini AI.
+
+This project is crafted by **Nirjharini..** 💡.
+
+I’d love to hear your feedback! Feel free to share your thoughts. ❤️
